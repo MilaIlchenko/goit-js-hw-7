@@ -1,4 +1,4 @@
-<script>
+
   const button = document.querySelector('.change-color');
   const body = document.body;
   const spanColor = document.querySelector('.color');
@@ -14,4 +14,3 @@
     body.style.backgroundColor = randomColor;
     spanColor.textContent = randomColor;
   });
-</script>

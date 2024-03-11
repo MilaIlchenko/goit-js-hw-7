@@ -1,4 +1,4 @@
-<script>
+
   const form = document.querySelector('.login-form');
 
   form.addEventListener('submit', function(event) {
@@ -21,4 +21,4 @@
 
     this.reset();
   });
-</script>
+
